@@ -14,7 +14,6 @@
     <body>
     <center>
         <h1>PRACTICA N° 2</h1>
-        <h1>SERVLETS</h1>
         <table border="5">
             <tr>
                 <th>Carrera:</th>
